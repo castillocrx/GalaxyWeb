@@ -1,0 +1,16 @@
+body {
+    background-image: url(img/space.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header{
+    display:flex;
+    background-color: aliceblue;
+    padding: 0%;
+}
+
+footer{
+    display: flex;
+}       
